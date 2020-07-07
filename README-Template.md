@@ -1,4 +1,4 @@
-# Project Title
+# Login Functionality with Servlet and JSP
 
 This Project shows the use of Servlet and JSP technology to create dynamic Login Page
 
@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 JSP - 2.2 +
-IDE - STS/Eclipse Neon.3
+IDE - STS/Eclipse Neon.3+
 JDK - 1.8 or later
 Apache Tomcat - 8.5
 JSTL - 1.2.1
@@ -32,6 +32,6 @@ This project will get deploy to local network i.r localhost on deflt port 8080. 
 
 ## Authors
 
-* **Jaffarr Ali** 
+* **Jaffar Ali** 
 
 
